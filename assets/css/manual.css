@@ -2131,7 +2131,7 @@ a.white:active {
 .banner{
     position: relative;
     height: 481px;
-    background-image: url("http://via.placeholder.com/1920x480");
+    background-image: url("../images/banner-1920x480.png");
     background-size: cover;
     background-position: 0 5%;
     background-repeat: no-repeat;
