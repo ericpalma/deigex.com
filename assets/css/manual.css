@@ -848,13 +848,13 @@ footer:-ms-input-placeholder {
 }
 
 .slide_2 {
-    background-image: url("http://via.placeholder.com/1920x1280");
+    background-image: url("https://via.placeholder.com/1920x1280");
     background-repeat: no-repeat;
     background-position: 2% 45%;
 }
 
 .slide_3 {
-    background-image: url("http://via.placeholder.com/1920x1280");
+    background-image: url("https://via.placeholder.com/1920x1280");
     background-repeat: no-repeat;
     background-position: 2% 73%;
 }
@@ -1017,7 +1017,7 @@ footer:-ms-input-placeholder {
 }
 
 .events {
-    background-image: url("http://via.placeholder.com/1920x900");
+    background-image: url("https://www.deigex.com/assets/images/1920x900.png");
     background-size: cover;
 }
 
@@ -2178,7 +2178,7 @@ a.white:active {
 }
 
 .video-overlay{
-    background-image: url("http://via.placeholder.com/748x440") ;
+    background-image: url("https://via.placeholder.com/748x440") ;
     background-size: cover;
     position:absolute;
     left:0;
@@ -2210,19 +2210,19 @@ a.white:active {
 }
 
 .gallery_1{
-   background-image: url("http://via.placeholder.com/748x440");
+   background-image: url("https://via.placeholder.com/748x440");
    height: 100%;
    background-size: cover;
 }
 
 .gallery_2{
-    background-image: url("http://via.placeholder.com/748x440");
+    background-image: url("https://via.placeholder.com/748x440");
     height: 100%;
     background-size: cover;
 }
 
 .gallery_3{
-    background-image: url("http://via.placeholder.com/748x440");
+    background-image: url("https://via.placeholder.com/748x440");
     height: 100%;
     background-size: cover;
 }
@@ -2277,7 +2277,7 @@ a.white:active {
 }
 
 .youtube-overlay{
-    background-image: url("http://via.placeholder.com/748x440");
+    background-image: url("https://via.placeholder.com/748x440");
     background-size: cover;
     position:absolute;
     left:0;
@@ -2818,7 +2818,7 @@ table{
 }
 
 .main-news-2-columns .video-overlay{
-    background-image: url("http://via.placeholder.com/365x230") ;
+    background-image: url("https://via.placeholder.com/365x230") ;
 }
 
 .main-news-2-columns  .video-overlay img{
@@ -2827,7 +2827,7 @@ table{
 }
 
 .main-news-2-columns .youtube-overlay{
-    background-image: url("http://via.placeholder.com/365x230") ;
+    background-image: url("https://via.placeholder.com/365x230") ;
 }
 
 .main-news-2-columns .youtube-overlay img{
@@ -3401,7 +3401,7 @@ p.about-author-paragraph:hover a{
 
 /*======== 12.1. Become a Volunteer ============*/
 .become-vol{
-    background-image: url("http://via.placeholder.com/1920x700");
+    background-image: url("https://via.placeholder.com/1920x700");
     background-size: cover;
 }
 
